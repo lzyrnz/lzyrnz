@@ -1,4 +1,3 @@
-Hiyaaa!!! my name is Renze, and I'm originally from the Philippines.
+Hi, I’m Renze from the Philippines.
 
-I'm currently a second-year college student bachelor of science in information technology, where we learn fundamental concepts and several languages like Python.
-In addition, I want to gain more programming knowledge so that I can become a programmer who can implement my ideas. I am aware that technology has grown significantly over time and is always changing. Because of this, we can never predict what will happen next. That is why this path I am taking make it challenging and wanna pursue this career.
+I am about to graduate with a Bachelor of Science in Information Technology, where I’ve built a solid foundation in IT systems, networks, and emerging technologies. I’m passionate about exploring technology, solving problems, and learning continuously. On this GitHub, I share projects and experiments that reflect my journey in IT and my interest in applying technology to real-world challenges.
