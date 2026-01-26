@@ -8,10 +8,12 @@ I’m still exploring where I fit best in IT, but I enjoy **learning how systems
 
 ---
 
-### 🔗 Connect with Me
-- 💼 **LinkedIn:** https://linkedin.com/in/renze-alano
-- 💻 **GitHub:** https://github.com/lzyrnz
-- 📧 **Email:** renzelano.ra@gmail.com
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/renze-alano)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/lzyrnz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel)]([https://renzealano-portfolio.netlify.app/#home))
+[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/lzyrnz)
 
 ---
 
@@ -56,13 +58,14 @@ This project helped me understand **system integration, automation logic, cloud 
 - GitHub  
 
 ## 🔧 Tech Badges
-![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
-![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
-![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
-![ESP32](https://img.shields.io/badge/ESP32-green)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
-![React](https://img.shields.io/badge/React-blue?logo=react)
-![Git](https://img.shields.io/badge/Git-red?logo=git)
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)](https://flutter.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)](https://firebase.google.com)
+[![ESP32](https://img.shields.io/badge/ESP32-green)](https://www.espressif.com/en/products/socs/esp32)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)](https://nextjs.org)
+[![React](https://img.shields.io/badge/React-blue?logo=react)](https://react.dev)
+[![Git](https://img.shields.io/badge/Git-red?logo=git)](https://git-scm.com)
 
 ---
 
