@@ -55,6 +55,15 @@ This project helped me understand **system integration, automation logic, cloud 
 - Git  
 - GitHub  
 
+## 🔧 Tech Badges
+![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
+![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
+![ESP32](https://img.shields.io/badge/ESP32-green)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![Git](https://img.shields.io/badge/Git-red?logo=git)
+
 ---
 
 ## 🎓 Education
