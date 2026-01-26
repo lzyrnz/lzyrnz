@@ -78,3 +78,12 @@ Batangas State University – TNEU
 ---
 
 ⭐ *I’m eager to learn, improve, and gain real-world experience during my OJT and early IT career.*
+
+---
+
+<img 
+  width="100%" 
+  src="https://open.spotify.com/user/313otd4okqoymknvd32lvch3ulsqD&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" 
+  alt="My Spotify Playing"
+/>
+
