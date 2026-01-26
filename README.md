@@ -82,9 +82,9 @@ Batangas State University – TNEU
 ---
 
 <img 
-  width="100%" 
-  src="https://spotify-github-profile.kittinanx.com/api/view?uid=313otd4okqoymknvd32lvch3ulsq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" 
-  alt="Renze's Spotify"
+  width="100%"
+  src="https://spotify-github-profile.kittinanx.com/api/view?uid=313otd4okqoymknvd32lvch3ulsq&cover_image=true&theme=default&show_offline=false&background_color=121212"
+  alt="Renze's Spotify Now Playing"
 />
 
 
