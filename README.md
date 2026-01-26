@@ -12,7 +12,7 @@ I’m still exploring where I fit best in IT, but I enjoy **learning how systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/renze-alano)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/lzyrnz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel)](renzealano-portfolio.netlify.app/#contact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel)](https://renzealano-portfolio.netlify.app/#contact)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/lzyrnz)
 
 ---
