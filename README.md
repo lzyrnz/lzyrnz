@@ -80,17 +80,3 @@ Batangas State University – TNEU
 ⭐ *I’m eager to learn, improve, and gain real-world experience during my OJT and early IT career.*
 
 ---
-
-<p align="center" dir="auto">
-  <a href="https://open.spotify.com/user/313otd4okqoymknvd32lvch3ulsq" rel="nofollow">
-    <img
-      width="100%"
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=313otd4okqoymknvd32lvch3ulsq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true"
-      alt="Renze's Spotify"
-      style="max-width: 100%;"
-    >
-  </a>
-</p>
-
-
-
