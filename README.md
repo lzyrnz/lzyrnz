@@ -81,9 +81,6 @@ Batangas State University – TNEU
 
 ---
 
-<img 
-  width="100%" 
-  src="https://open.spotify.com/user/313otd4okqoymknvd32lvch3ulsqD&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" 
-  alt="My Spotify Playing"
+<img width="100%" src="https://camo.githubusercontent.com/5d33c73a0a0c6c9f6d32107584dddc3adeb1088ed6009fdf78fe162f74f006f8/68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e6b697474696e616e782e636f6d2f6170692f766965773f7569643d33316364717835686d6277666c667a6562637079346473657335757526636f7665725f696d6167653d74727565267468656d653d64656661756c742673686f775f6f66666c696e653d66616c7365266261636b67726f756e645f636f6c6f723d31323132313226696e7465726368616e67653d74727565" alt="Iki's Spotify" data-canonical-src="https://spotify-github-profile.kittinanx.com/api/view?uid=31cdqx5hmbwflfzebcpy4dses5uu&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=true" style="max-width: 100%;">
 />
 
