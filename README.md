@@ -12,7 +12,6 @@ I’m still exploring where I fit best in IT, but I enjoy **learning how systems
 - 💼 **LinkedIn:** https://linkedin.com/in/renze-alano
 - 💻 **GitHub:** https://github.com/lzyrnz
 - 📧 **Email:** renzelano.ra@gmail.com
-- 📄 **Resume:** *(PDF)*
 
 ---
 
