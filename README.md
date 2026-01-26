@@ -31,7 +31,6 @@ This project helped me understand **system integration, automation logic, cloud 
 ---
 
 ## 🛠️ Skills & Tools
-*(Based on my academic background, capstone work, and resume)*
 
 ### Programming
 - Python  
