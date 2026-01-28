@@ -1,4 +1,4 @@
-## Hi there 👋 ### I'm Renze Alano
+## Hi there 👋 ## I'm Renze Alano
 
 I’m a **graduating Bachelor of Science in Information Technology (BSIT) student** based in the Philippines 🇵🇭 and currently **starting my On-the-Job Training (OJT)**.
 
