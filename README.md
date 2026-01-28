@@ -77,6 +77,3 @@ Batangas State University – TNEU
 
 ---
 
-⭐ *I’m eager to learn, improve, and gain real-world experience during my OJT and early IT career.*
-
----
