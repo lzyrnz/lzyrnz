@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Renze Alano
+## Hi there ![Demo](https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034fc32529090afc1ef7ef03b2d45c87271/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966)
+ I'm Renze Alano
 
 I’m a **graduating Bachelor of Science in Information Technology (BSIT) student** based in the Philippines 🇵🇭 and currently **starting my On-the-Job Training (OJT)**.
 
