@@ -4,8 +4,6 @@ I’m a **graduating Bachelor of Science in Information Technology (BSIT) studen
 
 I’m still exploring where I fit best in IT, but I enjoy **learning how systems work**, especially how hardware, cloud platforms, and applications come together in real-world projects. My academic experience has helped me develop a strong foundation in IT concepts, hands-on implementation, and responsible system design.
 
-⭐ **A graduating IT student with a passion for building secure and user-friendly digital experiences.**
-
 ---
 
 ## 🌐 Connect With Me
