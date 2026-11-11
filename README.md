@@ -1,8 +1,8 @@
 ## Hi there 👋  I'm Renze Alano
 
-I’m a **graduating Bachelor of Science in Information Technology (BSIT) student** based in the Philippines 🇵🇭 and currently **starting my On-the-Job Training (OJT)**.
+I’m a Bachelor of Science in Information Technology (BSIT) graduate based in the Philippines 🇵🇭.
 
-I’m still exploring where I fit best in IT, but I enjoy **learning how systems work**, especially how hardware, cloud platforms, and applications come together in real-world projects. My academic experience has helped me develop a strong foundation in IT concepts, hands-on implementation, and responsible system design.
+I’m an aspiring IT professional who enjoys learning how systems work, especially how hardware, cloud platforms, networks, and applications come together in real-world projects. Through my academic projects and hands-on experience, I’ve developed a strong foundation in IT concepts, system implementation, troubleshooting, and responsible system design.
 
 ---
 
@@ -68,10 +68,10 @@ This project helped me understand **system integration, automation logic, cloud 
 ---
 
 ## 🎓 Education
-🎓 **Bachelor of Science in Information Technology**  
-Batangas State University – TNEU  
-📍 Alangilan, Batangas City  
-🗓️ *Graduating*
+🎓 Bachelor of Science in Information Technology
+Batangas State University – TNEU
+📍 Alangilan, Batangas City
+🗓️ Graduated
 
 ---
 
